@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExpenses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Expenses>
+    <Name>food</Name>
+    <Expense>600</Expense>
+    <Category>travel</Category>
+    <Date>2026-02-17T15:25:44.6645057+05:30</Date>
+  </Expenses>
+  <Expenses>
+    <Name>travel</Name>
+    <Expense>200</Expense>
+    <Category>travel</Category>
+    <Date>2026-02-17T15:28:02.5110277+05:30</Date>
+  </Expenses>
+  <Expenses>
+    <Name>food</Name>
+    <Expense>300</Expense>
+    <Category>food</Category>
+    <Date>2026-02-17T15:28:16.1849905+05:30</Date>
+  </Expenses>
+</ArrayOfExpenses>

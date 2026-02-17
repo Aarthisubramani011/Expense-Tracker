@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExpenses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Expenses>
+    <Name>gowri </Name>
+    <Expense>47</Expense>
+    <Category>dj</Category>
+    <Date>2026-02-17T15:33:20.1160443+05:30</Date>
+  </Expenses>
+  <Expenses>
+    <Name>food</Name>
+    <Expense>400</Expense>
+    <Category>food</Category>
+    <Date>2026-02-17T15:41:50.3497875+05:30</Date>
+  </Expenses>
+</ArrayOfExpenses>

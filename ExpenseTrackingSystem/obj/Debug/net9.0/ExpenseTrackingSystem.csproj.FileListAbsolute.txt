@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\bin\Debug\net9.0\ExpenseTrackingSystem.exe
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\bin\Debug\net9.0\ExpenseTrackingSystem.deps.json
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\bin\Debug\net9.0\ExpenseTrackingSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\bin\Debug\net9.0\ExpenseTrackingSystem.dll
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\bin\Debug\net9.0\ExpenseTrackingSystem.pdb
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.sourcelink.json
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.dll
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\refint\ExpenseTrackingSystem.dll
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.pdb
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ExpenseTrackingSystem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Aarthisubramani011\Expense-Tracker\ExpenseTrackingSystem\obj\Debug\net9.0\ref\ExpenseTrackingSystem.dll
