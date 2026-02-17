@@ -1,5 +1,0 @@
-C:\Aarthi\Repositories\Aarthi\ExpenseTracker\obj\Release\net9.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
-C:\Aarthi\Repositories\Aarthi\ExpenseTracker\obj\Release\net9.0\ExpenseTracker.AssemblyInfoInputs.cache
-C:\Aarthi\Repositories\Aarthi\ExpenseTracker\obj\Release\net9.0\ExpenseTracker.AssemblyInfo.cs
-C:\Aarthi\Repositories\Aarthi\ExpenseTracker\obj\Release\net9.0\ExpenseTracker.csproj.CoreCompileInputs.cache
-C:\Aarthi\Repositories\Aarthi\ExpenseTracker\obj\Release\net9.0\ExpenseTracker.sourcelink.json
